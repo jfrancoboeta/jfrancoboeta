@@ -8,7 +8,7 @@
 
 :roller_coaster: As a hobby outside of Technology (although sometimes related), I love theme parks. I like to meet with my friends every other weekend and have some fun together at :european_castle: Walt Disney World, :leopard: Busch Gardens Tampa, or :earth_americas: Universal Orlando Resort.
 
-:airplane: I love traveling around the world and discovering new cultures. I find very interesting places that are outside of what I'm culturally used to, and apply things I learn from these experiences to my professional life to be able to treat and understand everyone I communicate with.
+:airplane: I love traveling around the world and discovering new cultures too. I find very interesting places that are outside of what I'm culturally used to, and apply things I learn from these experiences to my professional life to be able to treat and understand everyone I communicate with.
 
 ## Skills 🛠️
 
