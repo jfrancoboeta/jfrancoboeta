@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-:mortar_board: My name is Juan Franco, and I'm currently a student at the University of South Florida, pursuing a BS of Science in Computer Science.
+:mortar_board: My name is Juan Franco, and I'm currently a student at Northeastern University, pursuing a MS of Artificial Intelligence. Completed a BS in Computer Science at the University of South Florida.
 
-:briefcase: I currently work at the USF IT department as a level I Service Desk Student Assistant. This challenging job requires excellent communication and time management skills to provide a high standard of quality level to the department, as well as a high technical understanding to be able to provide quick and efficient IT-related solutions to the clients. 
+:briefcase: I previously  worked at the USF IT department as a level I Service Desk Student Assistant. This challenging job required excellent communication and time management skills to provide a high standard of quality level to the department, as well as a high technical understanding to be able to provide quick and efficient IT-related solutions to the clients. 
 
 :computer: I am passionate about what I do and spend a lot of time <b>learning new things</b> that are applicable to real-life challenges and solutions. I worked on a website project using Django (python), SQL, HTML, and CSS, whose purpose is to notify you through :e-mail: email when a seat becomes available to register for your class at USF. You can check it out in my <a href = "https://github.com/jfrancoboeta/southflalerts">southflalerts</a> repository.
 
